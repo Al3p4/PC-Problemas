@@ -24,7 +24,7 @@ int main(){
          if (Mile > Juice){
             cout<< "Case "<<i<<": Juice "<<Juice<<endl;
         }
-        if (Mile == Juice){
+        else{
            cout<< "Case "<<i<<": Mile Juice "<<Mile<<endl;
         }
     }
